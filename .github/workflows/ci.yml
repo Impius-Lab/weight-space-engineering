@@ -1,0 +1,19 @@
+name: Verify Lab 01 (Zero Autograd)
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install NumPy
+        run: python -m pip install --upgrade pip numpy
+      - name: Run Lab 01 Deterministic Assertions & AST Purity Gate
+        run: python labs/lab01_orientation_and_purity.py
