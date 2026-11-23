@@ -92,3 +92,11 @@ If this handbook or reference suite helps your research or engineering workflow,
   url       = {https://weight-space-engineering.weight-space-engineering.workers.dev/}
 }
 ```
+
+---
+
+## Disclaimer, Trademarks & Responsible Use
+
+1. **Educational & Research Purpose (`AS IS`):** All mathematical derivations, reference scripts, and companion documentation are provided `"AS IS"` for educational and scientific research purposes without warranty of any kind.
+2. **Nominative Trademark Notice:** `PyTorch`, `Hugging Face`, `LLaMA`, `GPT-2`, `Mistral`, `Qwen`, `Gemma`, and other framework or model names referenced for tensor-layout compatibility are trademarks of their respective owners; this publication is independent and not affiliated with or endorsed by them.
+3. **Checkpoint License Compliance:** Practitioners applying weight-space auditing, editing, subspace projection, or merging techniques to third-party pretrained checkpoints are solely responsible for complying with the underlying model's license, attribution requirements, and acceptable-use policies.
