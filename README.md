@@ -1,14 +1,18 @@
 # Weight-Space Engineering
 
 [![Verify Lab 01 (Zero Autograd)](https://github.com/Impius-Lab/weight-space-engineering/actions/workflows/ci.yml/badge.svg)](https://github.com/Impius-Lab/weight-space-engineering/actions/workflows/ci.yml)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Impius-Lab/weight-space-engineering/blob/main/notebooks/Lab01_Quickstart.ipynb)
+[![1-Page Cheat Sheet (PDF)](https://img.shields.io/badge/Cheat_Sheet-1--Page_PDF-0ea5e9.svg)](docs/Weight-Space-Desk-Reference-Card.pdf)
 [![License: MIT (Sample Code)](https://img.shields.io/badge/Code_License-MIT-blue.svg)](LICENSE)
-[![ISBN: 979-8-1447-3586-5](https://img.shields.io/badge/ISBN-979--8--1447--3586--5-amber.svg)](https://weight-space-engineering.weight-space-engineering.workers.dev/)
+[![ISBN: 979-8-1447-3586-5](https://img.shields.io/badge/ISBN-979--8--1447--3586--5-amber.svg)](https://www.amazon.com/dp/B0HSRCN6MW)
 
 **Official Public Companion Repository for *Weight-Space Engineering: Compiling, Editing, and Merging Neural Network Weights Without Gradient Descent* (1st Edition) by Aguentil H.**
 
+- **Run `Lab 01` Live in Browser (Zero Install):** [Open Interactive Google Colab Notebook](https://colab.research.google.com/github/Impius-Lab/weight-space-engineering/blob/main/notebooks/Lab01_Quickstart.ipynb)
+- **Download 1-Page Printable Desk Reference Card (PDF):** [`docs/Weight-Space-Desk-Reference-Card.pdf`](docs/Weight-Space-Desk-Reference-Card.pdf)
 - **Read Chapter 1 Free Online + Full 40-Paper Bibliography:** <https://weight-space-engineering.weight-space-engineering.workers.dev/chapter-1/>
 - **Download the Complete DRM-Free Handbook (94-Page Print-Typeset PDF + Dark-Mode EPUB 3) & Full 8-Lab Executable Python Suite (USD 49):** <https://whop.com/weight-space-engineering/weight-space-engineering-handbook-python-lab-suite/>
-- **Print Paperback (`6" x 9"`, ISBN `979-8-1447-3586-5`, ASIN `B0HSRDFBGW`) & Kindle Edition (`B0HSRCN6MW`):** <https://www.amazon.com/dp/B0HSRCN6MW>
+- **Print Paperback (`6" x 9"`, ISBN `979-8-1447-3586-5`, ASIN `B0HSRDFBGW`) & Kindle Edition (`B0HSRCN6MW`):** <https://www.amazon.com/dp/B0HSRCN6MW> *(Amazon buyers get USD 15 off the 8-Lab Suite on Whop with code `KDPREADER15`)*
 
 ---
 
