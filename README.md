@@ -8,7 +8,7 @@
 
 - **Read Chapter 1 Free Online + Full 40-Paper Bibliography:** <https://weight-space-engineering.weight-space-engineering.workers.dev/chapter-1/>
 - **Download the Complete DRM-Free Handbook (94-Page Print-Typeset PDF + Dark-Mode EPUB 3) & Full 8-Lab Executable Python Suite (USD 49):** <https://whop.com/weight-space-engineering/weight-space-engineering-handbook-python-lab-suite/>
-- **Print Paperback (`6" x 9"`, ISBN `979-8-1447-3586-5`) & Kindle Edition:** Coming to Amazon (links wired upon KDP release).
+- **Print Paperback (`6" x 9"`, ISBN `979-8-1447-3586-5`, ASIN `B0HSRDFBGW`) & Kindle Edition (`B0HSRCN6MW`):** <https://www.amazon.com/dp/B0HSRCN6MW>
 
 ---
 
